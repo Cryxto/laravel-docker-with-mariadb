@@ -31,7 +31,7 @@ chown -R www-data:www-data /var/www
 ```shell
 DB_HOST=mysql_pemweb
 DB_PORT=3306
-DB_DATABASE=simple_crud_product
+DB_DATABASE=nama_database
 DB_USERNAME=root
 DB_PASSWORD=p455w0rd
 ```
